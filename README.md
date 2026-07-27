@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0076-minimum-window-substring) |
+## Array
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0503-next-greater-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
