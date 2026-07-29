@@ -19,12 +19,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
