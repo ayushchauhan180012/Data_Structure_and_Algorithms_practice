@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0275-h-index-ii) |
 | [0503-next-greater-element-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0704-binary-search) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0275-h-index-ii) |
 | [0704-binary-search](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -80,4 +82,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
