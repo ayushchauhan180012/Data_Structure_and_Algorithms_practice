@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Stack
 |  |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
