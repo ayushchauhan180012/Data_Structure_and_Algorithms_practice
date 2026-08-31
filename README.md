@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0692-top-k-frequent-words) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0091-decode-ways) |
+| [0692-top-k-frequent-words](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0692-top-k-frequent-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0503-next-greater-element-ii) |
+| [0692-top-k-frequent-words](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0692-top-k-frequent-words) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0692-top-k-frequent-words) |
 ## Math
 |  |
 | ------- |
@@ -124,12 +129,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0692-top-k-frequent-words) |
 ## Greedy
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
