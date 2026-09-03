@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0503-next-greater-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0704-binary-search) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0973-k-closest-points-to-origin) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/1552-magnetic-force-between-two-balls) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0973-k-closest-points-to-origin) |
 ## Math
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0502-ipo) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Trie
 |  |
