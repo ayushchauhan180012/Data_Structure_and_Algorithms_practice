@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0973-k-closest-points-to-origin) |
+| [3870-count-commas-in-range](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/3870-count-commas-in-range) |
 ## Quickselect
 |  |
 | ------- |
