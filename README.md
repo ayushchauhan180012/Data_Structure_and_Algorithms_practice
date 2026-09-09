@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0091-decode-ways) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Backtracking
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0692-top-k-frequent-words) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0630-course-schedule-iii) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Trie
 |  |
