@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0621-task-scheduler) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0091-decode-ways) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0022-generate-parentheses) |
 ## Bracket Sequences
 |  |
