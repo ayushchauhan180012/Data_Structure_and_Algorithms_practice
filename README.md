@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0076-minimum-window-substring) |
+| [0264-ugly-number-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0692-top-k-frequent-words) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0091-decode-ways) |
+| [0264-ugly-number-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0264-ugly-number-ii) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Backtracking
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0502-ipo) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0264-ugly-number-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0973-k-closest-points-to-origin) |
 | [3870-count-commas-in-range](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/3870-count-commas-in-range) |
