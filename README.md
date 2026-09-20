@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0131-palindrome-partitioning) |
 | [0692-top-k-frequent-words](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0692-top-k-frequent-words) |
 ## Sliding Window
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0264-ugly-number-ii) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Backtracking
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0046-permutations) |
+| [0131-palindrome-partitioning](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
