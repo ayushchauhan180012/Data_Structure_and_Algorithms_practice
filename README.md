@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0658-find-k-closest-elements) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
