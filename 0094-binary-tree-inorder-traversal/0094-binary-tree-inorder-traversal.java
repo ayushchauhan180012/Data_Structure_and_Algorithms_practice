@@ -26,20 +26,13 @@ class Solution {
     }
 
     public void fun(TreeNode root, List<Integer> arr){
-        if (root.left==null && root.right==null){
-            arr.add(root.val);
+        if (root==null ){
             return;
         }
 
-        if (root.left!=null){
-            fun(root.left,arr);
-        }
-
+        fun(root.left,arr);
         arr.add(root.val);
+        fun(root.right,arr);
 
-        if(root.right!=null){
-            fun(root.right,arr);
-        }
-        return;
     }
 }
