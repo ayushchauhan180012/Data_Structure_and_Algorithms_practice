@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -219,4 +220,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
