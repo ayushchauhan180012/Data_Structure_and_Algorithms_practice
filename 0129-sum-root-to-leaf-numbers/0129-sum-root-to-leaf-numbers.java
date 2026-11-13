@@ -14,7 +14,6 @@
  * }
  */
 class Solution {
-    int sum = 0;
     public int sumNumbers(TreeNode root) {
         if(root==null) return 0;
 
@@ -29,13 +28,10 @@ class Solution {
         num = num*10 + root.val;
 
         if(root.left==null && root.right==null){
-            sum += num;
-            return sum;
+            return num;
         }
 
-        totalSum(root.left, num);
-        totalSum(root.right, num);
-
-        return sum;
+        return totalSum(root.left, num) +
+               totalSum(root.right, num);
     }
 }
