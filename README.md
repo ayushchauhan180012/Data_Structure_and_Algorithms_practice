@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0076-minimum-window-substring) |
