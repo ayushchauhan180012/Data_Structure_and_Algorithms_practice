@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0347-top-k-frequent-elements) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0700-search-in-a-binary-search-tree) |
