@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0973-k-closest-points-to-origin) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0630-course-schedule-iii) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Trie
 |  |
 | ------- |
