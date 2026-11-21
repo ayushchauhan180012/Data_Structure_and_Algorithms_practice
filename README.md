@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0951-flip-equivalent-binary-trees) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## String Matching
@@ -361,4 +363,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
