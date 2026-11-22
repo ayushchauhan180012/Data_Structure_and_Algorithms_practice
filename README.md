@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/1552-magnetic-force-between-two-balls) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0994-rotting-oranges) |
 ## String Matching
 |  |
 | ------- |
