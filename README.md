@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0419-battleships-in-a-board](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0419-battleships-in-a-board) |
 | [0502-ipo](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0621-task-scheduler) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0419-battleships-in-a-board](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0419-battleships-in-a-board) |
 | [0994-rotting-oranges](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0419-battleships-in-a-board](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/ayushchauhan180012/Data_Structure_and_Algorithms_practice/tree/master/0572-subtree-of-another-tree) |
